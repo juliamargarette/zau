@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- No file attached&#xd;
+- Select street under Location of Project/Establishment section&#xd;
+- For Building application</description>
+   <name>ZAU BLDG - Application Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc9ecbb5-2700-4aa3-98d9-8114f4c98b14</testCaseGuid>
+</TestCaseEntity>

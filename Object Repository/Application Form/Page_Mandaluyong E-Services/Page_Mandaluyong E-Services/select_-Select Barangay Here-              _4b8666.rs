@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-Select Barangay Here-              _4b8666</name>
+   <tag></tag>
+   <elementGuidId>a4acbe2b-573f-428a-b392-413648a9a0df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select_barangay_lpe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='select_barangay_lpe']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>58c32488-122e-4c84-a11e-b9b3a8d42c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bgy_sel custom-select psgc_fields</value>
+      <webElementGuid>831abd45-7a65-41bf-a743-4c806c02c1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select_barangay_lpe</value>
+      <webElementGuid>8713724a-0b60-402a-8605-e284790e23c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>txt_lcinfo[barangay_lpe]</value>
+      <webElementGuid>10dc01ea-f905-42cf-9c59-039e487de021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-zip</name>
+      <type>Main</type>
+      <value>text_zipc_lpe</value>
+      <webElementGuid>e987721b-c2be-42c8-90f7-db4aa7b46f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>psgc_brgy_change(this)</value>
+      <webElementGuid>659179bf-41e9-44e7-a030-ed18b012a4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    -Select Barangay Here-
+                    Addition HillsBagong SilangBarangka DriveBarangka IbabaBarangka IlayaBarangka ItaasBuayang BatoBurolDaang BakalHagdang Bato ItaasHagdang Bato LibisHarapin Ang BukasHighway HillsHuloMabini-J.RizalMalamigMauwayNamayanNew ZañigaOld ZañigaPag-AsaPlainviewPleasant HillsPoblacionSan JoseVergaraWack-Wack Greenhills                </value>
+      <webElementGuid>6121d1f4-ad19-41ef-9b2f-6151e5d0c7fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select_barangay_lpe&quot;)</value>
+      <webElementGuid>5d346b3b-16af-463f-929f-7269c45ac743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Application Form/Page_Mandaluyong E-Services/Page_Mandaluyong E-Services/iframepage-content-wrapper</value>
+      <webElementGuid>c275c283-3ceb-49a6-b2e4-f830d8cb25af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='select_barangay_lpe']</value>
+      <webElementGuid>19439bbf-57aa-4174-99cd-b9402824f7d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='information_section']/div[7]/div/div[4]/select</value>
+      <webElementGuid>a9f67337-00b3-4807-815d-b3e1b84d4712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[35]/following::select[1]</value>
+      <webElementGuid>1bc3ddcc-73fc-4758-976e-f4491bb80d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid field. Please select a barangay here.'])[1]/preceding::select[1]</value>
+      <webElementGuid>c1d88f79-9133-4490-b6c0-897c73215475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>dcdc6ae8-63f8-4702-a6df-4f59953ad58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'select_barangay_lpe' and @name = 'txt_lcinfo[barangay_lpe]' and (text() = '
+                    -Select Barangay Here-
+                    Addition HillsBagong SilangBarangka DriveBarangka IbabaBarangka IlayaBarangka ItaasBuayang BatoBurolDaang BakalHagdang Bato ItaasHagdang Bato LibisHarapin Ang BukasHighway HillsHuloMabini-J.RizalMalamigMauwayNamayanNew ZañigaOld ZañigaPag-AsaPlainviewPleasant HillsPoblacionSan JoseVergaraWack-Wack Greenhills                ' or . = '
+                    -Select Barangay Here-
+                    Addition HillsBagong SilangBarangka DriveBarangka IbabaBarangka IlayaBarangka ItaasBuayang BatoBurolDaang BakalHagdang Bato ItaasHagdang Bato LibisHarapin Ang BukasHighway HillsHuloMabini-J.RizalMalamigMauwayNamayanNew ZañigaOld ZañigaPag-AsaPlainviewPleasant HillsPoblacionSan JoseVergaraWack-Wack Greenhills                ')]</value>
+      <webElementGuid>36712d73-0cd8-4f69-b256-9214f54c12fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Owner</name>
+   <tag></tag>
+   <elementGuidId>b5be3b11-9a80-402e-a4b8-abb1e7028e9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#information_section > div.d-flex.flex-wrap > div.d-flex.align-items-center.p-1 > label.body-lg.mb-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='information_section']/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4ecb8023-a888-4e17-9d0b-02c537fb213c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>body-lg mb-0</value>
+      <webElementGuid>4a7dab97-fe48-4759-a84b-837b6c400554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>radio_applicant_owner</value>
+      <webElementGuid>7471f563-3738-4007-881b-5d4948fd9496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Owner</value>
+      <webElementGuid>2dccd22c-5b0f-4dda-83d8-69dffeee6249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;information_section&quot;)/div[@class=&quot;d-flex flex-wrap&quot;]/div[@class=&quot;d-flex align-items-center p-1&quot;]/label[@class=&quot;body-lg mb-0&quot;]</value>
+      <webElementGuid>e7091bdb-b08c-46e1-abad-1889f5639174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Application Form/Page_Mandaluyong E-Services/iframepage-content-wrapper</value>
+      <webElementGuid>6b0c9341-cf65-404d-9a39-cf020f23f96c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='information_section']/div[2]/div/label</value>
+      <webElementGuid>5a7e1514-1fc9-43c3-bf94-9127aec77bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::label[1]</value>
+      <webElementGuid>150b637c-8921-42b8-8967-3ef95c62b573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INFORMATION'])[1]/following::label[1]</value>
+      <webElementGuid>6df9cc45-0541-46ef-986b-88a79d7725f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/preceding::label[1]</value>
+      <webElementGuid>bcd87026-4620-49ec-b611-f7a3357bf0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='President'])[1]/preceding::label[1]</value>
+      <webElementGuid>84e28a07-bf5e-460d-ab46-004bc9256a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Owner']/parent::*</value>
+      <webElementGuid>9a4125e1-8c5d-4254-b5b3-09cb388eee48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/label</value>
+      <webElementGuid>a3438ddb-3aa1-4ac8-a2e2-156c24151974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Owner' or . = 'Owner')]</value>
+      <webElementGuid>15db2be4-fe6a-48d1-95df-5da58f97f077</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

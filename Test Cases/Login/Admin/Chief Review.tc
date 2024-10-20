@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ZAU Chief Review</description>
+   <name>Chief Review</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32cbd248-6da8-4665-b190-e1ebe3d77051</testCaseGuid>
+</TestCaseEntity>

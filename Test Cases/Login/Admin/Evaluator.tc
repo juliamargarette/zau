@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ZAU Evaluator</description>
+   <name>Evaluator</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>466963cf-ea22-4451-a35f-74fa826d94aa</testCaseGuid>
+</TestCaseEntity>

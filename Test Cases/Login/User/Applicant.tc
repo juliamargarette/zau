@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applicant login</description>
+   <name>Applicant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>566793ac-e8f4-4095-bb3f-2124b592571e</testCaseGuid>
+</TestCaseEntity>

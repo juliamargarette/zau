@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_NAJR.IIIIIIIVVVIVIIVIIIIXXXIXIIXIIIX_14a9c9</name>
+   <tag></tag>
+   <elementGuidId>5afd20c7-3a74-4fef-85af-61eb04227653</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;txt_lcinfo[nopgm_sf]&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='txt_lcinfo[nopgm_sf]']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>26ddc52f-e62c-4ad4-b773-c767d2e14ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>txt_lcinfo[nopgm_sf]</value>
+      <webElementGuid>89db11d7-f65d-430f-a783-78b21625fc49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select txt_lcinfo</value>
+      <webElementGuid>cc07ce05-40b9-412c-9952-625e18359780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+N/A
+JR.
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+SR.
+</value>
+      <webElementGuid>a034cc04-88bb-4023-ade6-321379ad0ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;information_section&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-wrap&quot;]/div[@class=&quot;d-flex flex-column col-md-3 p-0 pt-md-0 pt-3&quot;]/div[@class=&quot;d-flex flex-column w-100&quot;]/select[@class=&quot;custom-select txt_lcinfo&quot;]</value>
+      <webElementGuid>48259990-f80d-4fb9-9e60-6fd99cb7b5b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Mandaluyong E-Services/iframepage-content-wrapper</value>
+      <webElementGuid>37799bb2-63d9-4c0f-b314-f752cdbc9387</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='txt_lcinfo[nopgm_sf]']</value>
+      <webElementGuid>6b4a0032-c2f2-4798-b4ed-8f8cf6d1df9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='information_section']/div[3]/div/div[4]/div/select</value>
+      <webElementGuid>bec28884-28b3-48f0-bc58-7e7499a0d42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suffix'])[1]/following::select[1]</value>
+      <webElementGuid>e955304e-d3a0-4f07-a4c3-2409830e8fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid field. Please select one.'])[1]/preceding::select[1]</value>
+      <webElementGuid>bd374d6c-db2d-4409-8c6f-e1fcb3615e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>59bc4da8-ceef-43dd-806f-3be0ceb5c086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'txt_lcinfo[nopgm_sf]' and (text() = '
+N/A
+JR.
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+SR.
+' or . = '
+N/A
+JR.
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+SR.
+')]</value>
+      <webElementGuid>90680a3f-4ece-4082-8464-5eedb463371b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

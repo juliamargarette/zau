@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- No file attached&#xd;
+- Select street under the Location of Project/Establishment section&#xd;
+- For Business applications</description>
+   <name>ZAU BIZ - Application Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>425973ee-3b2d-4e99-9a68-ac153c7abd99</testCaseGuid>
+</TestCaseEntity>

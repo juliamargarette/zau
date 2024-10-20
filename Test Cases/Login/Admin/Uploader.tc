@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ZAU Uploader</description>
+   <name>Uploader</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a47ef669-07c4-41d2-ab37-64dfaada84d8</testCaseGuid>
+</TestCaseEntity>

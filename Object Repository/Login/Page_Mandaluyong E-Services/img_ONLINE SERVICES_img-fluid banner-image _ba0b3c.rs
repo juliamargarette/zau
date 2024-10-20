@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ONLINE SERVICES_img-fluid banner-image _ba0b3c</name>
+   <tag></tag>
+   <elementGuidId>bafc9044-bef9-402b-975f-50d5d2221244</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.banner-image.service-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://adminmandacoreqa.unifysyscontrol.com/assets/images/mandaluyong_main/zau.png')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>54963335-11dd-4551-8963-03ff116b4879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://adminmandacoreqa.unifysyscontrol.com/assets/images/mandaluyong_main/zau.png</value>
+      <webElementGuid>83ac3054-c424-4562-bb1d-3d183e3cfbb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid banner-image service-icon</value>
+      <webElementGuid>13f13357-80a7-45f4-9c8a-21cf5a11f1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page-content-wrapper&quot;]/div[@class=&quot;page-content-wrapper&quot;]/main[@class=&quot;container-fluid text-center container-padding d-flex flex-column aos-init aos-animate&quot;]/div[@class=&quot;d-flex flex-wrap justify-content-center&quot;]/div[@class=&quot;col-sm-3 service-card p-0&quot;]/a[@class=&quot;d-flex flex-column align-items-center w-100&quot;]/img[@class=&quot;img-fluid banner-image service-icon&quot;]</value>
+      <webElementGuid>f530e610-feb1-4396-92b0-f31cf9db8c1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://adminmandacoreqa.unifysyscontrol.com/assets/images/mandaluyong_main/zau.png')]</value>
+      <webElementGuid>deaec06c-b9d6-4646-8909-242f2db5cc85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/img</value>
+      <webElementGuid>79016107-494c-4a72-ab00-adce467a1ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://adminmandacoreqa.unifysyscontrol.com/assets/images/mandaluyong_main/zau.png']</value>
+      <webElementGuid>4df561ae-514b-4ce0-83fb-3e9a197e0b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://mandacoreqa.unifysyscontrol.com/assets/images/mandaluyong_main/zau.png')]</value>
+      <webElementGuid>a3f38c2f-76c2-40ef-bdbe-1a69bb9577ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://mandacoreqa.unifysyscontrol.com/assets/images/mandaluyong_main/zau.png']</value>
+      <webElementGuid>cfabdaa7-7ab1-4ed7-b747-0acc018f66e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

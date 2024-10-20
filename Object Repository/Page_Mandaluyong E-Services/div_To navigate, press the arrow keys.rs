@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_To navigate, press the arrow keys</name>
+   <tag></tag>
+   <elementGuidId>79ffa013-8c27-4568-9d06-edd58099737a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gm-style > div > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pinMapView']/div/div[3]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>012d56c1-f60f-471a-b266-a3a956d3db05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>To navigate, press the arrow keys.</value>
+      <webElementGuid>c1a2ecbc-f4ac-4f51-9266-ae9b86d941ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pinMapView&quot;)/div[1]/div[@class=&quot;gm-style&quot;]/div[1]/div[2]</value>
+      <webElementGuid>dae69a8e-a16e-4286-870a-90aec2a420e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Mandaluyong E-Services/iframepage-content-wrapper</value>
+      <webElementGuid>158628be-583a-4386-8a86-7463d45b9d85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pinMapView']/div/div[3]/div/div[2]</value>
+      <webElementGuid>a9a34733-62be-426d-8b23-fbcc3cb5f590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jump down by 75%'])[1]/following::div[76]</value>
+      <webElementGuid>8f59d132-9750-4d54-8946-97d49fd316eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Down'])[1]/following::div[76]</value>
+      <webElementGuid>f6961647-9172-4233-8271-0ee4f4284c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map'])[1]/preceding::div[9]</value>
+      <webElementGuid>5bb5d545-5492-4d1c-bb91-13f465a176c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div[3]/div/div[2]</value>
+      <webElementGuid>ffea4fb1-0a72-4a15-96e1-c21ec3e33201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'To navigate, press the arrow keys.' or . = 'To navigate, press the arrow keys.')]</value>
+      <webElementGuid>f8a794bf-8fea-43e9-9e61-ffb95a270334</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
